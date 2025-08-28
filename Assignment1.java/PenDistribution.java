@@ -6,4 +6,5 @@ public class PenDistribution {
         int remainingPens = totalPens % students;
         System.out.println("The Pen Per Student is " + pensPerStudent +
                            " and the remaining pen not distributed is " + remainingPens);
-    }
+    }
+}

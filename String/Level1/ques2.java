@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SubstringCompare {
+public class ques2 {
 
     public static String createSubstring(String str, int start, int end) {
         String result = "";

@@ -1,6 +1,6 @@
 //package Level1;
 import java.util.*;
-public class StringCompare {
+public class ques1 {
 
     
     public static boolean compareStrings(String str1, String str2) {
