@@ -2,7 +2,7 @@
 public class ques4 {
 
     public static void generateException() {
-        String text = null; // initialized to null
+        String text = null; 
         System.out.println("Length of text: " + text.length());
     }
 
